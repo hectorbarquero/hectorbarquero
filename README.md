@@ -1,7 +1,9 @@
 ## 🤖 About Me:
 + Currently working on docs for hardware, embedded systems, SDKs, APIs, and machine vision.<br>
-+ I’m looking to network with other documentation specialists, doc engineers, managers, and especially documentation teams.<br>
-+ I’m currently learning electrical engineering to further my x86 and kernel software development, which I do in my off-hours.<br>
++ I’m looking to network with other documentation specialists, doc engineers, managers, and documentation teams.<br>
++ I’m currently learning electrical engineering to further my x86 and kernel software development.<br>
+
++ My latest project: a remote control hexapod garden robot (Arduino UNO R3) with a Sony Starvis, diagonal 7.857 mm (Type 1/2.3) 12.3 Mega-pixel CMOS active pixel image sensor. The rugged robot charges itself with solar panels and crawls the garden to monitor growth.<br>
 
 <br><i>Ask me about documentation:</i><br>
 ---
@@ -21,7 +23,7 @@
 |   **Authoring Type**  | **Y/N**        |                        **Additional Notes**                       |
 |:---------------------:|----------------|:-----------------------------------------------------------------:|
 | Docs As Code          |       Yes      | reStructuredText, Markdown, Sphinx                                |
-| Git                   |       Yes      | <!-- Not applicable -->                                           |
+| Git                   |       Yes      | < !-- Not applicable -->                                          |
 | Product Documentation |       Yes      | Desktop Publishing (DTP) - Manuals, Guides, Datasheets, Packaging |
 | Video                 |       Yes      | Adobe Premiere Pro, product renders, animated infographics        |
 
