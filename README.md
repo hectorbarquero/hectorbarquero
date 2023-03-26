@@ -6,10 +6,12 @@
 ---
 
 `Education`
+---
   - Computer Sciences, Information Security Management & Network Security Architecture
     + Canadian Armed Forces, Electrical & Power Distribution
   
  `Experience`
+---
   - **2022-2023+:** FRAMOS GmbH, Technical Writer
   - **2020-2022:** General Dynamics, Engineering Development & Technology
   - **2018-2020:** The Factory Partnership, Embedded Systems Analyst
@@ -26,7 +28,7 @@
 <br>
 
  `Tools` <br>
- 
+ ---
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 
