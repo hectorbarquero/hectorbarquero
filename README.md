@@ -1,6 +1,6 @@
 ## 🤖 About Me:
-+ Probably drinking coffee right now, working on docs for hardware, embedded systems, SDKs, APIs, and automotive manufacturers.<br>
-+ I’m looking to network with other documentation specialists, doc engineers, managers, and documentation teams.<br>
++ Probably drinking coffee right now, working on documentation<br>
++ I’m looking to network with other documentation professionals, documentation engineers, DocOps specialists, managers, and documentation teams.<br>
 
 <br><i>Ask me about documentation:</i><br>
 ---
