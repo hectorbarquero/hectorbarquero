@@ -1,31 +1,32 @@
-## 🤖 About Me:
-+ Probably drinking coffee right now, working on documentation<br>
-+ I’m looking to network with other documentation professionals, documentation engineers, DocOps specialists, managers, and documentation teams.<br>
+# Hello World,
 
-<br><i>Ask me about documentation:</i><br>
+<a href="https://www.youtube.com/@hectorbarquero1690/featured">
+  <img align="left" alt="Hector Barquero - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/hectorbarquero/">
+  <img align="left" alt="Hector Barquero - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://www.instagram.com/hectorrbarquero/">
+  <img align="left" alt="Hector Barquero - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://www.artstation.com/hectorbarquero">
+  <img align="left" alt="Hector Barquero - Artstation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg"/>
+</a>
+<br />
+<br />
+
+I'm a Technical Writer by day and a Technical Artist by night.  
+I create documentation in a variety of formats; including knowledge base articles, docs-as-code static sites & help videos. 
+If I'm not doing that, I'm usually creating art or developing scripts for art production pipelines.
+
+Check out my links, connect with me here, or shoot me an invite on LinkedIn. 
+
+
+Cheers,  
+Hector Barquero  
+
 ---
 
-### s1. `Education`
-  - Computer Sciences, Information Security Management & Network Security Architecture
-    + Canadian Armed Forces, Electrical & Power Distribution
-  
- ### s2. `Experience`
-  - **2022-2023+:** FRAMOS GmbH, Technical Writer
-  - **2020-2022:** General Dynamics, Technical Writer
-  - **2018-2020:** The Factory Partnership, Embedded Systems Analyst
-  - **2013-2018:** Canadian Armed Forces, Information Systems Specialist
-
-<br>
-
-|   **Authoring Type**  | **Y/N**        |                        **Additional Notes**                       |
-|:---------------------:|----------------|:-----------------------------------------------------------------:|
-| Docs As Code          |       Yes      | reStructuredText, Markdown, Sphinx, Git, MkDocs                   |
-| Product Documentation |       Yes      | Desktop Publishing (DTP) - Manuals, Guides, Datasheets, Packaging |
-| Video                 |       Yes      | Adobe Premiere Pro, product renders, animated infographics        |
-
-<br>
-
- ### s3. `Tools` <br>
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 
