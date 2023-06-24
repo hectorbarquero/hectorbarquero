@@ -6,18 +6,15 @@
 <a href="https://www.linkedin.com/in/hectorbarquero/">
   <img align="left" alt="Hector Barquero - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://www.instagram.com/hectorrbarquero/">
-  <img align="left" alt="Hector Barquero - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
 <a href="https://www.artstation.com/hectorbarquero">
   <img align="left" alt="Hector Barquero - Artstation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg"/>
 </a>
 <br />
 <br />
 
-I'm a Technical Writer by day and a Technical Artist by night.  
+I'm a technical writer by day and a programmer by night.  
 I create documentation in a variety of formats; including knowledge base articles, docs-as-code static sites & help videos. 
-If I'm not doing that, I'm usually creating art or developing scripts for art production pipelines.
+If I'm not doing that, I'm usually creating art or developing scripts.
 
 Check out my links, connect with me here, or shoot me an invite on LinkedIn. 
 
