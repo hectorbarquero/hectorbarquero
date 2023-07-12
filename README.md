@@ -14,7 +14,7 @@
 
 I'm a technical writer by day and a programmer by night.  
 I create documentation in a variety of formats; including knowledge base articles, docs-as-code static sites & help videos. 
-If I'm not doing that, I'm usually creating art or developing scripts.
+If I'm not doing that, I'm usually developing tools and scripts for gaming industry, building casual games, or making art assets.
 
 Check out my links, connect with me here, or shoot me an invite on LinkedIn. 
 
