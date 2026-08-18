@@ -14,6 +14,4 @@
 
 I'm currently building developer documentation for the Evolution Engine™, a graphics engine powering the AAA game <i>Warframe</i>™ and <i>Soulframe</i>™.
 
-I'm a process automation specialist who builds tools that bridge file formats, streamline publishing, and eliminate manual bottlenecks between systems that aren’t designed to communicate with each other. I help teams focus on high-value work, not on repetitive tasks.
-
 <br />
